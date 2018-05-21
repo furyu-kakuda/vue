@@ -1,0 +1,71 @@
+.card-body{
+    background-color: #c6e0f5;
+}
+
+.card-body input{
+    background-color: rgb(228, 239, 248);
+}
+
+.card-body li{
+    background-color: #c6e0f5;
+}
+[v-cloak] { display: none; }
+
+input[type="checkbox"] {
+    outline: none;
+}
+
+footer, header, main, section {
+    display: block;
+}
+
+.header {
+    text-align: center;
+}
+
+.footer {
+    display: flex;
+    padding: 5px 10px;
+}
+
+.footer li{
+    display: table-cell;
+    vertical-align: middle;
+    padding: 20px 5px 0px 5px;
+    
+}
+
+.footer_label {
+    font-size: 20px;
+}
+
+.todo-count {
+    vertical-align: middle;
+}
+
+filters {
+    vertical-align: middle;
+}
+
+.title {
+    font-size: 150px;
+    color: #f3b4b4;
+}
+
+input edit {
+    display: none;
+}
+
+.card {
+    margin: 100px 500px;
+
+}
+
+.labelcompleted {
+    text-decoration: line-through;
+    color: darkgrey;
+}
+
+body {
+    font-family: "YuGothic","Yu Gothic","Meiryo","ヒラギノ角ゴ","sans-serif";
+}
